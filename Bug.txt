@@ -1,0 +1,9 @@
+ID
+Severity
+Title
+Environment
+Precondition
+Steps
+Expected results
+Actual results
+Attachment
