@@ -1,0 +1,10 @@
+ID
+Title
+Environment
+Precondition
+Inputs
+Steps
+Exp.resuls
+Act.results
+Status
+Attachment
